@@ -1,5 +1,6 @@
+<img src="banner_github.png" alt="GitHub Banner" width="100%" />
 <p align="left">This is Suraj Gore!<br>Welcome to my GitHub profile! Here's a bit about me:<br><br>About Me<br><br>- 🌱 I’m currently learning: Flutter App Development.<br>- 👯 I’m looking to collaborate on: App devepoment  projects along with AI integration for backend.<br>- 🤔 I’m looking for help with: Backend and integrating Ai in apps.<br>- 💬 Ask me about: My projects from github.</p>
-
+<img src="banner2_github.png" alt="GitHub Banner" width="100%" />
 ###
 
 <div align="center">
